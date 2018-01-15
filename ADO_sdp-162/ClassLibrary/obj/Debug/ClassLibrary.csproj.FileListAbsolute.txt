@@ -1,0 +1,7 @@
+C:\Users\БекмухамбетА\Desktop\ADO.NET\ADO_sdp-162\ClassLibrary\bin\Debug\ClassLibrary.dll.config
+C:\Users\БекмухамбетА\Desktop\ADO.NET\ADO_sdp-162\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\БекмухамбетА\Desktop\ADO.NET\ADO_sdp-162\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\БекмухамбетА\Desktop\ADO.NET\ADO_sdp-162\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\БекмухамбетА\Desktop\ADO.NET\ADO_sdp-162\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\БекмухамбетА\Desktop\ADO.NET\ADO_sdp-162\ClassLibrary\bin\Debug\LiteDB.dll
+C:\Users\БекмухамбетА\Desktop\ADO.NET\ADO_sdp-162\ClassLibrary\bin\Debug\LiteDB.xml
